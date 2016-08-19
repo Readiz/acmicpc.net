@@ -2,6 +2,7 @@
 #define MAX 500000
 int arr[MAX];
 int N, M;
+
 int main()
 {
 	int i, j,sum = 0;

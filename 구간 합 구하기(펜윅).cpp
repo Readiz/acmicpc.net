@@ -22,6 +22,7 @@ ll sum(int idx)
 	}
 	return ret;
 }
+
 int main()
 {
 	int i;
